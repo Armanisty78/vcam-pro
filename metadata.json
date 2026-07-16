@@ -1,0 +1,6 @@
+{
+  "name": "VCam Pro",
+  "description": "Virtual Camera app with Xposed Hooking module to substitute camera feed with custom videos in apps like TikTok, Shopee, and WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
